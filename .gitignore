@@ -1,0 +1,37 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Arquivos Excel (dados sensíveis)
+Produtos.xlsx
+produtos.xlsx
+produtosAtualizados.xlsx
+TESTE_produtos.xlsx
+~$*.xlsx
+
+# ChromeDriver
+chromedriver.exe
+chromedriver
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
